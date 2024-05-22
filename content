@@ -1,1 +1,5 @@
-In this git repository an ngram language model is trained to generate sentences such that the starting token of each sentence is the last token of the previously generated sentence.
+Ngram.ipynb
+-- the main source code for data preprocessing, model development and test.
+
+TheBrothersKaramazov.txt
+-- Dataset
